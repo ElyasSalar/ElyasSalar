@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ElyasSalar Web developer who specially uses MERN stack.
+- 👀 I’m interested in learning more and dive deeper into technology field.
+- 🌱 I’m currently learning web development without rest.
+- 
+- 📫 you can reach me by my email: elyassalar8@gmail.com
