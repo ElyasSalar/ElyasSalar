@@ -1,10 +1,15 @@
 <h1 align="center">👋 Hi there, I’m Elyas Salar, a Web developer</h1>
 
+<div align="center">
+ 
+<br />
+  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ElyasSalar&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasSalar&layout=compact)](https://github.com/ElyasSalar/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElyasSalar&theme=dark)](https://git.io/streak-stats)
+</div>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
