@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I’m Elyas Salar, a Web developer</h1>
+<h1 align="center" >👋 𝐻𝑖 𝑡ℎ𝑒𝑟𝑒, 𝐼’𝑚 𝐸𝑙𝑦𝑎𝑠, 𝑎 𝑊𝑒𝑏 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟</h1>
 
 <div align="center">
  
@@ -7,11 +7,10 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ElyasSalar&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElyasSalar&theme=dark)](https://git.io/streak-stats)
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElyasSalar&layout=compact)](https://github.com/ElyasSalar/github-readme-stats)
 
-## My Tech Stacks
+## 𝑀𝑦 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘𝑠
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
@@ -37,3 +36,4 @@
 <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
 <a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="40px" height="40px"></a>
+</div>
